@@ -1,0 +1,2 @@
+- 🌧️ Intensidad de la lluvia del 4 de octubre de 2026 en El Bosque: https://omscgr.github.io/Intensidad-de-lluvia/
+- 💻 Notebook: https://colab.research.google.com/drive/12D-TbcsXk04pmBr2pC7MkuLWw_FGfH9L?usp=sharing
